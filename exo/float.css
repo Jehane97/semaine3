@@ -1,0 +1,11 @@
+h1{
+    text-align:center;
+}
+
+span{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    float: right;
+    margin: 50px;
+}

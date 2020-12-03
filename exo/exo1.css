@@ -1,0 +1,63 @@
+h1{
+    color: blue;
+    font-weight: bolder;
+}
+
+.highlight{
+    background-color: yellow;
+    font-style: italic;
+    text: blue
+    
+}
+
+#main-menu{
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+}
+
+.highlight .highlight{
+    color: blue;
+}
+
+article p{
+    border-style: dotted;
+}
+
+h2{
+    font-size: 0.5em;
+    text-transform: uppercase;
+
+}
+
+.photo{ 
+    width: 200px;
+}
+
+
+.parent div {
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+}
+
+.carre1{
+    background-color: red ;
+}
+
+.carre2{
+    background-color: orange ;
+}
+
+.carre3{
+    background-color: yellow ;
+}
+
+.carre4{
+    background-color: green ;
+}
+
+.menu li{
+    display: inline;
+}
+

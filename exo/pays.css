@@ -1,0 +1,76 @@
+.menu li{   
+    display: inline;
+    float:right;
+    font-family: 'Amatic SC', cursive;
+    font-size: 50px;
+    color: white;
+}
+
+body{
+    background-color: darkcyan;
+}
+
+h1{
+    font-family:'Amatic SC', cursive;
+    font-size: 70px;
+    color: white;
+    background-color: tan;
+}
+
+.parallax{
+    background-image:url("https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=753&q=80");
+    height:500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+h2{
+    color: white;
+    background-color:tan;
+    font-family:'Amatic SC', cursive;
+    font-size: 50px ;
+}
+
+.jordanie{
+    float: left;
+    width: 200px;
+    height: 200px;
+}
+
+.text1{
+    float: left;
+    text-align: justify;
+}
+
+.bali{
+    float: right;
+    width: 200px;
+    height: 200px;
+}
+
+.text2{
+    float: right;
+    text-align: justify;
+}
+
+.kapadokya{
+    float: right;
+    width: 200px;
+    height: 200px;
+}
+
+.text3{
+    float: right;
+    text-align: justify;
+}
+
+
+a:link{
+    color: white;
+}
+
+a:visited{
+    color: white;
+}
